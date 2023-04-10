@@ -80,3 +80,4 @@ Create a repo and push project to Github (_instructions outside the scope of the
 1. Select "Create from Git"
 1. Link to Github and select your repo
 1. Netlify will recognize the values in `netlify.toml` and you can deploy! 🎉
+1. Netlify will recognize the values in `netlify.toml` and you can deploy! 🎉
