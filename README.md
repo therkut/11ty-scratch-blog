@@ -7,6 +7,7 @@ Watch > "[6 minutes to Build a Blog from Scratch.](https://www.youtube.com/watch
 ## Create the Site Index File
 
 Create `index.html`
+
 Emmet: `html:5`
 
 ## Run the Develop Server
@@ -22,6 +23,7 @@ Create `posts/post-1.md`
 ## Create the `layout` Layout
 
 Create `_includes/layout.html`
+
 Emmet: `html:5`
 
 ## Create `posts` Directory Data File
@@ -79,7 +81,7 @@ Create a repo and push project to Github (_instructions outside the scope of the
 ## Deploy to Netlify
 
 1. Create a [Netlify](https://netlify.com) account, use GitHub login for fastest deply
-1. Select "Create from Git"
-1. Link to Github and select your repo
-1. If you run Eleventy locally you can drag your _site folder to drop.netlify.com to upload it without using git.
-1. Netlify will recognize the values in `netlify.toml` and you can deploy! 🎉
+2. Select "Create from Git"
+3. Link to Github and select your repo
+4. If you run Eleventy locally you can drag your _site folder to drop.netlify.com to upload it without using git.
+5. Netlify will recognize the values in `netlify.toml` and you can deploy! 🎉
