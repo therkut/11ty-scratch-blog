@@ -17,6 +17,7 @@ Emmet: `html:5`
 ## Create the Posts
 
 Create `posts/`
+
 Create `posts/post-1.md`
 
 
