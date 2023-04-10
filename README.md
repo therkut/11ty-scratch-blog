@@ -2,6 +2,8 @@
 
 Build a Blog from Scratch with Eleventy: "[Demo](https://11ty-scratch-blog.netlify.com)"
 
+Watch > "[6 minutes to Build a Blog from Scratch.](https://www.youtube.com/watch?v=kzf9A9tkkl4)"
+
 ## Create the Site Index File
 
 Create `index.html`
